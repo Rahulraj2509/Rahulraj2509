@@ -2,10 +2,10 @@
 
 * Regular Expressions in Python
 * Scientific libraries in Python 
-  * *NumPy
-  * *SciPy
-  * *Matplotlib
-  * *Pandas
+  * *NumPy*
+  * *SciPy*
+  * *Matplotlib*
+  * *Pandas*
 * Effective Data Visualization
 * Scikit-learn and Machine Learning 
 * Basic deep learning
@@ -14,8 +14,8 @@
 ## MACHINE LEARNING
 
 * Regression
-  * *Linear Regression with One Variable
-  * *Linear Regression with Multiple Variables
+  * *Linear Regression with One Variable*
+  * *Linear Regression with Multiple Variables*
 * Octave/Matlab
 * Logistic Regression
 * Regularization
